@@ -2,14 +2,14 @@
 #include<iostream>
 using namespace std;
 int main() {
-    //int a=2.0/5;
-   // cout<<a<<endl;
+    int c=2.0/5;
+   cout<<c<<endl;
 
    float a=2.0/5;
    cout <<a<<endl;//or
 
-  // double a=2.0/5;
-  // cout<<a<<endl;
+   double b=2.0/5;
+   cout<<b<<endl;
 
    return 0;
 
