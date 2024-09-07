@@ -1,4 +1,5 @@
-#include<iostream>
+//find the sum of all even number of 1 to N .
+~#include<iostream>
 using namespace std;
 int main() {
     int n;
