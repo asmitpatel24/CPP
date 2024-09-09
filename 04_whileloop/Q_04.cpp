@@ -1,3 +1,4 @@
+// Check if it is prime or not for given no..
 #include<iostream>
 using namespace std;
 int main() {
