@@ -1,3 +1,4 @@
+// print tringular pattern count 1 to n .
 #include<iostream>
 using namespace std;
 int main() {
