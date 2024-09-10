@@ -1,7 +1,7 @@
 /* Q- print pattern 1234
-                 1234
-                 1234
-                 1234*/
+                    1234
+                    1234
+                    1234 */
 #include<iostream>
 using namespace std;
 
@@ -15,7 +15,7 @@ int main() {
         int j=1;
 
         while (j<=n) {
-            cout<< j ;
+            cout<< j <<" ";
             j=j+1;
         }
         cout<<endl;
