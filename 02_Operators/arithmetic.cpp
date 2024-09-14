@@ -2,14 +2,16 @@
 #include<iostream>
 using namespace std;
 int main() {
-    int c=2.0/5;
-   cout<<c<<endl;
-
-   float a=2.0/5;
-   cout <<a<<endl;//or
-
-   double b=2.0/5;
-   cout<<b<<endl;
+    int a=4 , b=5;
+    cout<<"the value of a + b is"<<a + b<<endl;
+    cout<<"the value of a - b is"<<a - b<<endl;
+    cout<<"the value of a * b is"<<a * b<<endl;
+    cout<<"the value of a / b is"<<a / b<<endl;
+    cout<<"the value of a % b is"<<a % b<<endl;
+    cout<<"the value of a++ is"<<a++<<endl;
+    cout<<"the value of a-- is"<<a--<<endl;
+    cout<<"the value of ++a is"<<++a<<endl;
+    cout<<"the value of --a is"<<--a<<endl;
 
    return 0;
 
