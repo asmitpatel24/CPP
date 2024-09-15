@@ -12,7 +12,7 @@ cout<<b<< endl;
 bool bl=true;
 cout<<bl<<endl;
 
-float f=1.2;
+float f=18.2f;  //if we not mention f/F it double by default 
 cout<<f<<endl;
 
 double d=1.24;
